@@ -324,7 +324,7 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 
 #### 6. Amendments; Complete Agreement
 
-This Agreement may only be modified by a written amendment signed by an authorized representative of Nihongo Familiar, or by the posting by Nihongo Familiar of a revised version in accordance with [Section N. Changes to These Terms](#o-changes-to-these-terms). These Terms of Service, together with the Onkaado Privacy Statement, represent the complete and exclusive statement of the Agreement between you and us. This Agreement supersedes any proposal or prior Agreement oral or written, and any other communications between you and Nihongo Familiar relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+This Agreement may only be modified by a written amendment signed by an authorized representative of Nihongo Familiar, or by the posting by Nihongo Familiar of a revised version in accordance with [Section N. Changes to These Terms](#n-changes-to-these-terms). These Terms of Service, together with the Onkaado Privacy Statement, represent the complete and exclusive statement of the Agreement between you and us. This Agreement supersedes any proposal or prior Agreement oral or written, and any other communications between you and Nihongo Familiar relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 #### 7. Questions
 
