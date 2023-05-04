@@ -185,13 +185,13 @@ Any Advertising Content, like all Content, must not violate the law or these Ter
 
 #### 1. Pricing
 
-Our pricing and payment terms are available at [onkaado.com/settings/subscription](https://www.onkaado.com/settings/subscription). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term. Decreases in a subscription price may be applied in the middle of a payment term.
+Our pricing and payment terms are available at [onkaado.com/settings#sub-settings](https://www.onkaado.com/settings#sub-settings). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term. Decreases in a subscription price may be applied in the middle of a payment term.
 
 #### 2. Upgrades, Downgrades, and Changes
 
 - We will immediately bill you when you upgrade from the free plan to any paying plan.
 - If you change your level of service, we will prorate the cost difference and apply any charges or discounts immediately.
-- You may change your level of service at any time by choosing a plan option or going into your [subscription settings](https://www.onkaado.com/settings/subscription). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
+- You may change your level of service at any time by choosing a plan option or going into your [subscription settings](https://www.onkaado.com/settings#sub-settings). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
 
 #### 3. Billing Schedule
 
@@ -216,7 +216,7 @@ You are responsible for all fees, including taxes, associated with your use of t
 
 #### 1. Subscription Cancellation
 
-You can cancel your subscription at any time via the [subscription settings](https://www.onkaado.com/settings/subscription). Your access to paid content and features will remain in effect until the end of your current billing period. At the end of the billing period, access to paid content and features will be revoked, though your account will still be accessible and you can re-subscribe at any time. As part of keeping your account accessible, we will retain your data indefinitely, or until such time that you request an account deletion.
+You can cancel your subscription at any time via the [subscription settings](https://www.onkaado.com/settings#sub-settings). Your access to paid content and features will remain in effect until the end of your current billing period. At the end of the billing period, access to paid content and features will be revoked, though your account will still be accessible and you can re-subscribe at any time. As part of keeping your account accessible, we will retain your data indefinitely, or until such time that you request an account deletion.
 
 #### 2. Account Deletion
 
